@@ -1,7 +1,7 @@
 <p align="left">Le MCD</p>
 <br>
 
-<img width="759" alt="image" src="https://github.com/user-attachments/assets/ea8a5a95-3a6c-479d-8cb8-d84786618753">
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/47d67eba-b27d-4bc6-bb27-a605d8bca003">
 
 <br>
 <br>
